@@ -1,0 +1,13 @@
+.title{
+    background-color: black;
+    margin: 1px auto;
+    border-radius: 5px;
+    text-align: left;
+    padding: 1rem;
+    width: 50rem;
+    max-width: 95%;
+    
+}
+.title h3{
+    color: white;
+}
